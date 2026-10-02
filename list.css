@@ -1,0 +1,15 @@
+body { display: block; }
+.list-card { width: min(100%, 840px); margin: 24px auto; }
+.filters { display: flex; gap: 16px; margin: 28px 0 16px; }
+.filters label { display: grid; gap: 8px; font-size: .9rem; color: #555; }
+.filters label:first-child { flex: 1; }
+input, select { width: 100%; min-height: 44px; border: 1px solid #ccc; border-radius: 10px; padding: 10px 12px; font: inherit; background: #fff; color: #171717; }
+.track-group { margin-top: 28px; }
+.track-group h2 { font-size: 1.1rem; margin: 0 0 8px; }
+.track-group ul { list-style: none; padding: 0; margin: 0; }
+.track-group li + li { border-top: 1px solid #eee; }
+.track-link { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 8px; min-height: 48px; color: #234b72; text-decoration: none; line-height: 1.5; overflow-wrap: anywhere; }
+.track-link::after { content: '→'; flex-shrink: 0; }
+.track-link:hover { background: #f3f7fb; text-decoration: underline; }
+:focus-visible { outline: 3px solid #266aa6; outline-offset: 3px; }
+@media (max-width: 480px) { .list-card { margin-top: 12px; } .filters { flex-direction: column; } }
