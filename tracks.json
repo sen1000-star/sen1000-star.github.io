@@ -1,7 +1,282 @@
 {
+  "2018-1-airplane-graveyards": {
+    "title": "Airplane Graveyards",
+    "subtitle": "2018-1",
+    "file": "audio/2018-1-airplane-graveyards.wav"
+  },
+  "2018-1-new-york-city-vs-the-car": {
+    "title": "New York City vs. the Car",
+    "subtitle": "2018-1",
+    "file": "audio/2018-1-new-york-city-vs-the-car.wav"
+  },
+  "2018-1-the-zoot-suit-riots": {
+    "title": "The Zoot Suit Riots",
+    "subtitle": "2018-1",
+    "file": "audio/2018-1-the-zoot-suit-riots.wav"
+  },
   "2018-2-medical-voluntourism": {
     "title": "Medical Voluntourism",
     "subtitle": "2018-2",
     "file": "audio/2018-2-medical-voluntourism.wav"
+  },
+  "2018-2-pollution-in-portland": {
+    "title": "Pollution in Portland",
+    "subtitle": "2018-2",
+    "file": "audio/2018-2-pollution-in-portland.wav"
+  },
+  "2018-2-the-marielitos": {
+    "title": "The Marielitos",
+    "subtitle": "2018-2",
+    "file": "audio/2018-2-the-marielitos.wav"
+  },
+  "2018-3-debating-a-teaching-approach": {
+    "title": "Debating a Teaching Approach",
+    "subtitle": "2018-3",
+    "file": "audio/2018-3-debating-a-teaching-approach.wav"
+  },
+  "2018-3-forecasting-the-big-blow": {
+    "title": "Forecasting the Big Blow",
+    "subtitle": "2018-3",
+    "file": "audio/2018-3-forecasting-the-big-blow.wav"
+  },
+  "2018-3-stranded-whales": {
+    "title": "Stranded Whales",
+    "subtitle": "2018-3",
+    "file": "audio/2018-3-stranded-whales.wav"
+  },
+  "2019-1-hostile-architecture": {
+    "title": "Hostile Architecture",
+    "subtitle": "2019-1",
+    "file": "audio/2019-1-hostile-architecture.wav"
+  },
+  "2019-1-oxford-and-cambridge": {
+    "title": "Oxford and Cambridge",
+    "subtitle": "2019-1",
+    "file": "audio/2019-1-oxford-and-cambridge.wav"
+  },
+  "2019-1-the-uncertainties-of-celiac-disease": {
+    "title": "The Uncertainties of Celiac Disease",
+    "subtitle": "2019-1",
+    "file": "audio/2019-1-the-uncertainties-of-celiac-disease.wav"
+  },
+  "2019-2-dracula-tourism": {
+    "title": "Dracula Tourism",
+    "subtitle": "2019-2",
+    "file": "audio/2019-2-dracula-tourism.wav"
+  },
+  "2019-2-is-it-time-for-universal-basic-income": {
+    "title": "Is It Time for Universal Basic Income?",
+    "subtitle": "2019-2",
+    "file": "audio/2019-2-is-it-time-for-universal-basic-income.wav"
+  },
+  "2019-2-lightning-strikes-and-ships": {
+    "title": "Lightning Strikes and Ships",
+    "subtitle": "2019-2",
+    "file": "audio/2019-2-lightning-strikes-and-ships.wav"
+  },
+  "2019-3-a-closer-look-at-vitamin-supplements": {
+    "title": "A Closer Look at Vitamin Supplements",
+    "subtitle": "2019-3",
+    "file": "audio/2019-3-a-closer-look-at-vitamin-supplements.wav"
+  },
+  "2019-3-cassina": {
+    "title": "Cassina",
+    "subtitle": "2019-3",
+    "file": "audio/2019-3-cassina.wav"
+  },
+  "2019-3-the-hebridean-ark-tree-project": {
+    "title": "The Hebridean Ark Tree Project",
+    "subtitle": "2019-3",
+    "file": "audio/2019-3-the-hebridean-ark-tree-project.wav"
+  },
+  "2020-1-north-sentinel-island": {
+    "title": "North Sentinel Island",
+    "subtitle": "2020-1",
+    "file": "audio/2020-1-north-sentinel-island.wav"
+  },
+  "2020-1-risk-in-childhood-development": {
+    "title": "Risk in Childhood Development",
+    "subtitle": "2020-1",
+    "file": "audio/2020-1-risk-in-childhood-development.wav"
+  },
+  "2020-1-seagrasses": {
+    "title": "Seagrasses",
+    "subtitle": "2020-1",
+    "file": "audio/2020-1-seagrasses.wav"
+  },
+  "2020-2-a-makeover-for-hoover-dam": {
+    "title": "A Makeover for Hoover Dam",
+    "subtitle": "2020-2",
+    "file": "audio/2020-2-a-makeover-for-hoover-dam.wav"
+  },
+  "2020-2-superbugs": {
+    "title": "Superbugs",
+    "subtitle": "2020-2",
+    "file": "audio/2020-2-superbugs.wav"
+  },
+  "2020-2-the-quartz-crisis": {
+    "title": "The Quartz Crisis",
+    "subtitle": "2020-2",
+    "file": "audio/2020-2-the-quartz-crisis.wav"
+  },
+  "2020-3-antarcticas-wildlife": {
+    "title": "Antarctica's Wildlife",
+    "subtitle": "2020-3",
+    "file": "audio/2020-3-antarcticas-wildlife.wav"
+  },
+  "2020-3-bike-sharing-in-seattle": {
+    "title": "Bike Sharing in Seattle",
+    "subtitle": "2020-3",
+    "file": "audio/2020-3-bike-sharing-in-seattle.wav"
+  },
+  "2020-3-darwins-paradox": {
+    "title": "Darwin's Paradox",
+    "subtitle": "2020-3",
+    "file": "audio/2020-3-darwins-paradox.wav"
+  },
+  "2021-1-climate-change-and-the-sami": {
+    "title": "Climate Change and the Sámi",
+    "subtitle": "2021-1",
+    "file": "audio/2021-1-climate-change-and-the-sami.wav"
+  },
+  "2021-1-impostor-syndrome": {
+    "title": "Impostor Syndrome",
+    "subtitle": "2021-1",
+    "file": "audio/2021-1-impostor-syndrome.wav"
+  },
+  "2021-1-lemons-and-the-mafia": {
+    "title": "Lemons and the Mafia",
+    "subtitle": "2021-1",
+    "file": "audio/2021-1-lemons-and-the-mafia.wav"
+  },
+  "2021-2-richard-iii": {
+    "title": "Richard III",
+    "subtitle": "2021-2",
+    "file": "audio/2021-2-richard-iii.wav"
+  },
+  "2021-2-the-rebirth-of-the-scottish-whiskey-industry": {
+    "title": "The Rebirth of the Scottish Whiskey Industry",
+    "subtitle": "2021-2",
+    "file": "audio/2021-2-the-rebirth-of-the-scottish-whiskey-industry.wav"
+  },
+  "2021-2-the-temples-of-jayavarman-vii": {
+    "title": "The Temples of Jayavarman VII",
+    "subtitle": "2021-2",
+    "file": "audio/2021-2-the-temples-of-jayavarman-vii.wav"
+  },
+  "2021-3-caligula": {
+    "title": "Caligula",
+    "subtitle": "2021-3",
+    "file": "audio/2021-3-caligula.wav"
+  },
+  "2021-3-mummy-brown": {
+    "title": "Mummy Brown",
+    "subtitle": "2021-3",
+    "file": "audio/2021-3-mummy-brown.wav"
+  },
+  "2021-3-the-friends-of-eddie-coyle": {
+    "title": "The Friends of Eddie Coyle",
+    "subtitle": "2021-3",
+    "file": "audio/2021-3-the-friends-of-eddie-coyle.wav"
+  },
+  "2022-1-honey-fungus": {
+    "title": "Honey Fungus",
+    "subtitle": "2022-1",
+    "file": "audio/2022-1-honey-fungus.wav"
+  },
+  "2022-1-intentional-communities": {
+    "title": "Intentional Communities",
+    "subtitle": "2022-1",
+    "file": "audio/2022-1-intentional-communities.wav"
+  },
+  "2022-1-the-british-in-india": {
+    "title": "The British in India",
+    "subtitle": "2022-1",
+    "file": "audio/2022-1-the-british-in-india.wav"
+  },
+  "2022-2-durians-and-giant-fruit-bats": {
+    "title": "Durians and Giant Fruit Bats",
+    "subtitle": "2022-2",
+    "file": "audio/2022-2-durians-and-giant-fruit-bats.wav"
+  },
+  "2022-2-recognizing-faces": {
+    "title": "Recognizing Faces",
+    "subtitle": "2022-2",
+    "file": "audio/2022-2-recognizing-faces.wav"
+  },
+  "2022-2-the-long-range-desert-group": {
+    "title": "The Long Range Desert Group",
+    "subtitle": "2022-2",
+    "file": "audio/2022-2-the-long-range-desert-group.wav"
+  },
+  "2022-3-competing-against-braille": {
+    "title": "Competing against Braille",
+    "subtitle": "2022-3",
+    "file": "audio/2022-3-competing-against-braille.wav"
+  },
+  "2022-3-fences-and-ecosystems": {
+    "title": "Fences and Ecosystems",
+    "subtitle": "2022-3",
+    "file": "audio/2022-3-fences-and-ecosystems.wav"
+  },
+  "2022-3-the-soccer-war": {
+    "title": "The Soccer War",
+    "subtitle": "2022-3",
+    "file": "audio/2022-3-the-soccer-war.wav"
+  },
+  "2023-1-discipline-in-american-schools": {
+    "title": "Discipline in American Schools",
+    "subtitle": "2023-1",
+    "file": "audio/2023-1-discipline-in-american-schools.wav"
+  },
+  "2023-1-robert-the-bruce-and-the-declaration-of-arbroath": {
+    "title": "Robert the Bruce and the Declaration of Arbroath",
+    "subtitle": "2023-1",
+    "file": "audio/2023-1-robert-the-bruce-and-the-declaration-of-arbroath.wav"
+  },
+  "2023-1-the-chicken-of-tomorrow": {
+    "title": "The Chicken of Tomorrow",
+    "subtitle": "2023-1",
+    "file": "audio/2023-1-the-chicken-of-tomorrow.wav"
+  },
+  "2023-2-machine-or-human": {
+    "title": "Machine or Human?",
+    "subtitle": "2023-2",
+    "file": "audio/2023-2-machine-or-human.wav"
+  },
+  "2023-2-the-development-of-colleges-in-the-united-states": {
+    "title": "The Development of Colleges in the United States",
+    "subtitle": "2023-2",
+    "file": "audio/2023-2-the-development-of-colleges-in-the-united-states.wav"
+  },
+  "2023-2-the-marian-reforms": {
+    "title": "The Marian Reforms",
+    "subtitle": "2023-2",
+    "file": "audio/2023-2-the-marian-reforms.wav"
+  },
+  "2023-3-a-daring-escape": {
+    "title": "A Daring Escape",
+    "subtitle": "2023-3",
+    "file": "audio/2023-3-a-daring-escape.wav"
+  },
+  "2023-3-meritocracy": {
+    "title": "Meritocracy",
+    "subtitle": "2023-3",
+    "file": "audio/2023-3-meritocracy.wav"
+  },
+  "2023-3-the-bet": {
+    "title": "The Bet",
+    "subtitle": "2023-3",
+    "file": "audio/2023-3-the-bet.wav"
+  },
+  "2024-2-age-and-innovation": {
+    "title": "Age and Innovation",
+    "subtitle": "2024-2",
+    "file": "audio/2024-2-age-and-innovation.wav"
+  },
+  "2024-2-measuring-intelligence": {
+    "title": "Measuring Intelligence",
+    "subtitle": "2024-2",
+    "file": "audio/2024-2-measuring-intelligence.wav"
   }
 }
